@@ -13,5 +13,9 @@ Cached data is used to quickly load an app or website for every subsequent visit
 ## More about LRU CACHE
 https://www.interviewcake.com/concept/java/lru-cache
 
+## An Application of LRU 
+http://www.primarydigit.com/blog/an-application-of-lru-least-recently-used-data-structure-your-phones-home-screen
+
+
 
 
