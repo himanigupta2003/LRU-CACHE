@@ -10,5 +10,8 @@ A cache is a special storage space for temporary files that makes a device, brow
 After opening an app or website for the first time, a cache stashes files, images, and other pertinent data on your device.
 Cached data is used to quickly load an app or website for every subsequent visit.
 
+## More about LRU CACHE
+https://www.interviewcake.com/concept/java/lru-cache
+
 
 
